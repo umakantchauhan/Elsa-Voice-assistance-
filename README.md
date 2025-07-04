@@ -4,9 +4,15 @@ Collaboratively developed a desktop-based voice assistant with GUI using Tkinter
 
 Elsa is a GUI-based AI voice assistant built with Python. It listens to voice commands and performs a wide range of actions like searching the web, translating text, taking screenshots/photos, performing calculations, opening apps, and more – all from a slick tkinter interface.
 
-![Elsa UI](screenshot.png) <!-- Optional image if you have GUI screenshot -->
+![Elsa UI](screensh![elsa2](https://github.com/user-attachments/assets/64ff0e34-18fe-409d-87b5-bdf50d49a443)
+ot.png) <!-- Optional imag![elsa3](https://github.com/user-attachments/assets/d3800443-a869-4606-9c5e-ef676c840a41)
+e if you have GUI screenshot -->
+![elsa4](https://github.com/user-attachments/assets/78ec7fb6-de38-41c5-ac2d-6477fb41722b)
 
 ## 🛠 Features
+![elsa](https:![elsa5](https://github.com/user-attachments/assets/e75f4bfa-8142-4d5f-b501-b6c15e2bb395)
+//github.com/![elsa1](https://github.com/user-attachments/assets/fb4207b2-cf1f-4d53-9a61-cc726b96a6d3)
+user-attachments/assets/24517365-1d51-491e-9560-e1108fbd021b)
 
 - 🎤 **Voice Interaction** with Google Speech Recognition
 - 💬 **Text-to-Speech** via `pyttsx3`
