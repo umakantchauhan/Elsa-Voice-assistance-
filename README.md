@@ -91,7 +91,7 @@ python assistant.py
 
 ## 👩‍💻 Author
 
-**Elsa** was developed by [Your Name Here] – powered by Python and a healthy dose of curiosity.
+**Elsa** was developed by me and my team – powered by Python and a healthy dose of curiosity.
 
 ---
 
